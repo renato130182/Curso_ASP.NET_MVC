@@ -9,7 +9,6 @@ C:\Users\Ususario\source\repos\Curso_MVC\Curso_MVC\bin\Debug\netcoreapp3.1\Curso
 C:\Users\Ususario\source\repos\Curso_MVC\Curso_MVC\bin\Debug\netcoreapp3.1\Curso_MVC.pdb
 C:\Users\Ususario\source\repos\Curso_MVC\Curso_MVC\bin\Debug\netcoreapp3.1\Curso_MVC.Views.dll
 C:\Users\Ususario\source\repos\Curso_MVC\Curso_MVC\bin\Debug\netcoreapp3.1\Curso_MVC.Views.pdb
-C:\Users\Ususario\source\repos\Curso_MVC\Curso_MVC\obj\Debug\netcoreapp3.1\Curso_MVC.csprojAssemblyReference.cache
 C:\Users\Ususario\source\repos\Curso_MVC\Curso_MVC\obj\Debug\netcoreapp3.1\Curso_MVC.AssemblyInfoInputs.cache
 C:\Users\Ususario\source\repos\Curso_MVC\Curso_MVC\obj\Debug\netcoreapp3.1\Curso_MVC.AssemblyInfo.cs
 C:\Users\Ususario\source\repos\Curso_MVC\Curso_MVC\obj\Debug\netcoreapp3.1\Curso_MVC.RazorAssemblyInfo.cache
